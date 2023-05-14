@@ -1,0 +1,16 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"notes"},
+{"type":"table","name":"notepad","database":"notes","data":
+[
+{"note_id":"102","note_contents":"g7gibibibuvububuvvuvuvuvvuv","note_date":"05-13-2023","note_title":"ivivibibibigigiguc"},
+{"note_id":"103","note_contents":"Hello, I am Ralph Matthew Rojas Aquino.","note_date":"05-14-2023","note_title":"About Ralph Matthew Aquino"},
+{"note_id":"104","note_contents":"Hello, my friend's name is Julia and she's the best!","note_date":"05-14-2023","note_title":"About Julia Baybay"},
+{"note_id":"105","note_contents":"Hello, my other friend's name is Edelyn Ortiz and she's also one my cool friend. She's also just the one whose helping me in our Software Engineering 1. My other teammates in SoftEng sucks!!!!","note_date":"05-14-2023","note_title":"Just some random note"},
+{"note_id":"106","note_contents":"My friends are best friends in the world. Though others may not think that about them but who cares about what other people thinks, right? These friends are just absolutely the best!","note_date":"05-14-2023","note_title":"THE BEST FRIENDS IN THE WORLD!!!"},
+{"note_id":"107","note_contents":"Hello, World! Twinkle, twinkle, little star. How I wonder what you are? High above world so high? Like a diamond in the sky. Twinkle, twinkle, little star, how i wonder what you are!","note_date":"05-14-2023","note_title":"Twinkle Twinkle little star!"},
+{"note_id":"108","note_contents":"Rajeanne Princess Alphega R. Aquino, Rohanne Faith R. Aquino, Jennifer R. Aquino, Rufino F. Aquino","note_date":"05-14-2023","note_title":"Family!"},
+{"note_id":"109","note_contents":"Chill lang muna mga pare. Tigil muna tayo sa pag abante. Easy lang di sa nagpapakampante","note_date":"05-14-2023","note_title":"Blade Runner"}
+]
+}
+]
